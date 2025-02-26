@@ -6,5 +6,5 @@ Jsme **Student Cyber Games**, studentský spolek organizující soutěže pro st
 
 [pIšQworky](https://pisqworky.cz) |
 [Tour de App](https://tourde.app) |
-[Prezentiáda](https://prezentiada.cz) |
+[Prezentiáda](https://prezentiada.cz)
 </div>
