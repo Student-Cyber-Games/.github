@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Student Cyber Games logo](https://scg.cz/images/SCG_logo_small.png)](https://scg.cz)
+  [![Student Cyber Games logo](https://scg.cz/images/SCG-logo-colour.png)](https://scg.cz)
 
 Jsme **students can grow**, studentský spolek organizující soutěže pro studenty základních a středních škol.
 
